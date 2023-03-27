@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Swift, iOS ...**
 
-- 📫 How to reach me **mrtctns22@gmail.com**
+- 📫 How to reach me **mrtctns22@gmail.com** or https://mrtctns.github.io
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
