@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Neon Apps**
 
-- 💬 Ask me about **Swift, SwiftUI iOS ...**
+- 💬 Ask me about **Swift, SwiftUI, iOS ...**
 
 - 📫 How to reach me **mrtctns22@gmail.com** or https://mrtctns.github.io
 
